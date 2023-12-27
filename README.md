@@ -1,2 +1,62 @@
-# fem-results-summary-component
-Frontend Mentor results summary component challenge
+# Frontend Mentor - Results summary component solution
+
+This is a solution to the [Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+
+## Table of contents
+
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+
+## Overview
+
+### The challenge
+
+Users should be able to:
+
+- View the optimal layout for the interface depending on their device's screen size
+- See hover and focus states for all interactive elements on the page
+
+### Screenshot
+
+<img src="./screenshots/mobile.png" alt="Mobile" width="375px" />
+
+![Desktop](./screenshots/desktop.png)
+
+### Links
+
+- Solution URL: [GitHub repository](https://github.com/justinconnell/fem-results-summary-component)
+- Live Site URL: [Live site](https://justinconnell.github.io/fem-results-summary-component/)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+
+### What I learned
+
+Reinforced learning on flexbox and responsive design.
+
+### Continued development
+
+I will revisit this challenge to implement the functionality that will load the data dynamically.
+
+### Useful resources
+
+Completed from memory based on the prior challenges
+
+## Author
+
+- GitHub - [Justin](https://github.com/justinconnell)
+- Frontend Mentor - [@justinconnell](https://www.frontendmentor.io/profile/justinconnell)
+- Twitter - [@justin2code](https://twitter.com/justin2code)
